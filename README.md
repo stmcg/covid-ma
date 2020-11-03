@@ -25,5 +25,6 @@ The file “summary_tables.R” creates all figures and tables in the manuscript
 Helper functions and data cleaning
 - The file “helper-functions.R” contains numerous helper functions used in the data cleaning and analysis
 - The files “age_analysis.R”, “blood_analysis.R”, “clinical_noscore_analysis.R”, “coagulation_analysis.R”, “kidney_analysis.R”, “liver_analysis.R”, “heart_analysis.R”, and “infections_analysis.R” contain helper functions that run the data cleaning and analysis for the indicators in these respective categories
+- The file "sensitivity_analyses.R" contains helper functions that run the sensitivity analyses
 
 These analyses were originally run on R version 4.0.2 with packages `metamedian` (version 0.1.5), `metafor` (version 2.4-0), and `stringr` (version 1.4.0).
