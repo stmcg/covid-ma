@@ -1,0 +1,32 @@
+﻿Outcome,Unit,Category,SK,Outcome Name,Selection
+Age,years,demographic,years,Age (years),0
+ALAT,U/L,"Lab, Liver",U/L,ALAT (U/L),0
+Albumin,g/L,"Lab, Liver",g/L,Albumin (g/L),0
+Antithrombin,%,"Lab, Coagulation",%,Antithrombin (%),0
+APTT,seconds,"Lab, Coagulation",seconds,APTT (sec),0
+ASAT,U/L,"Lab, Liver",U/L,ASAT (U/L),0
+BNP,pg/mL,"Lab, Heart",pg/mL,BNP (pg/mL),0
+BUN,mmol/L,"Lab, Kidney",mmol/L,BUN (mmol/L),0
+CK,U/L,"Lab, Heart",U/L,CK (U/L),0
+CKMB,U/L,"Lab, Heart",U/L,CK-MB (U/L),0
+Creatinine,µmol/L,"Lab, Kidney",µmol/L,Creatinine (µmol/L),0
+CRP,mg/L,"Lab, Infection",mg/L,CRP (mg/L),1
+DDimer,mg/L,"Lab, Coagulation",mg/L,D-Dimer (mg/L),1
+Fibrinogen,g/L,"Lab, Coagulation",g/L,Fibrinogen (g/L),0
+Hematocrit,NA,"Lab, Blood",%,Hematocrit (%),0
+Hgb,NA,"Lab, Blood",g/L,Hemoglobin (g/L),0
+IL6,pg/mL,"Lab, Infection",pg/mL,IL-6 (pg/mL),0
+INR,NA,"Lab, Coagulation",INR,INR,0
+LDH,U/L,"Lab, Liver",U/L,LDH (U/L),1
+Leukocyte,NA,"Lab, Blood",10^9/L,Leukocyte (10^9/L),1
+Lymphocyte,NA,"Lab, Blood",10^9/L,Lymphocyte (10^9/L),1
+Neutrophil,NA,"Lab, Blood",10^9/L,Neutrophil (10^9/L),1
+O2SatNoOx,NA,Clinical,%,SpO2 - without O2 (%),0
+O2SatOx,NA,Clinical,%,SpO2 - with O2 (%),0
+Platelets,NA,"Lab, Blood",10^9/L,Platelets (10^9/L),0
+Procalcitonin,ng/mL,"Lab, Infection",ng/mL,PCT (ng/mL),0
+Prothrombin,NA,"Lab, Coagulation",seconds,Prothrombin (sec),0
+RespRate,NA,Clinical,/min,Respiratory Rate (per min),0
+TroponinI,pg/mL,"Lab, Heart",pg/mL,TnI (pg/mL),0
+TroponinT,pg/mL,"Lab, Heart",pg/mL,TnT (pg/mL),0
+ViralLoad,NA,"Lab, Infection",Absolute Number,Viral Load (absolute),0
